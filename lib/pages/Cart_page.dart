@@ -43,7 +43,7 @@ class _CartPageState extends State<CartPage> {
                         icon: Icon(Icons.delete),
                       );
                     }),
-              ), d
+              ),
               GestureDetector(
                 onTap: payNow,
                 child: Container(
